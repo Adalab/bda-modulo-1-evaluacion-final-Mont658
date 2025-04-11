@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Mi Tienda
+=======
+# Mi Tienda
+
+>>>>>>> 07538161c879a8824a6b31d21a9ef009defd9d7f
 # TiendaOnline - Proyecto de Gestión
 
 Este es un proyecto que armé para manejar el inventario y las ventas de una tienda online. Todavía es bastante básico, pero ya tiene algunas cosas funcionando.
@@ -43,6 +48,7 @@ Aquí está toda la lógica de la tienda.
 * `realizar_compra(self)`: Para que el cliente pueda comprar.
 * `finalizar_compra(self, carrito)`: Para actualizar el stock después de que el cliente compra.
 
+<<<<<<< HEAD
 ## Cómo se ejecuta
 
 1.  Necesitas tener Python instalado.
@@ -67,3 +73,5 @@ Tu Nombre
 ## Licencia
 
 [Si quieres, pon aquí la licencia, por ejemplo, MIT]
+=======
+>>>>>>> 07538161c879a8824a6b31d21a9ef009defd9d7f
