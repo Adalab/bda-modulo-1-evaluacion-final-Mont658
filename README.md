@@ -6,7 +6,7 @@ Mi Tienda
 >>>>>>> 07538161c879a8824a6b31d21a9ef009defd9d7f
 # TiendaOnline - Proyecto de Gestión
 
-Este es un proyecto que armé para manejar el inventario y las ventas de una tienda online. Todavía es bastante básico, pero ya tiene algunas cosas funcionando.
+Este es un proyecto para manejar el inventario y las ventas de una tienda online.És bastante básico.
 
 ## Lo que se puede hacer
 
@@ -33,8 +33,8 @@ Aquí está toda la lógica de la tienda.
 #### Cosas que tiene la clase (Atributos)
 
 * `inventario` (lista): Aquí guardamos los productos. Cada producto es como una ficha con el nombre, precio y cantidad.
-* `clientes` (diccionario): Esto es para llevar la cuenta de los clientes (todavía no está muy completo).
-* `ventas_totales` (float): Para saber cuántas ventas hemos hecho en total (tampoco está del todo listo).
+* `clientes` (diccionario): Esto es para llevar la cuenta de los clientes.
+* `ventas_totales` (float): Para saber cuántas ventas hemos hecho en total.
 
 #### Cosas que puede hacer la clase (Métodos)
 
@@ -46,32 +46,10 @@ Aquí está toda la lógica de la tienda.
 * `eliminar_producto(self, nombre)`: Para quitar un producto de la tienda.
 * `calcular_valor_inventario(self)`: Para saber cuánto vale todo lo que tenemos en la tienda.
 * `realizar_compra(self)`: Para que el cliente pueda comprar.
-* `finalizar_compra(self, carrito)`: Para actualizar el stock después de que el cliente compra.
 
-<<<<<<< HEAD
-## Cómo se ejecuta
-
-1.  Necesitas tener Python instalado.
-2.  Guarda el código en un archivo (por ejemplo, `tienda.py`).
-3.  Abre la terminal o la línea de comandos.
-4.  Ve a la carpeta donde guardaste el archivo.
-5.  Escribe esto y presiona Enter: `python tienda.py`
 
 ## Para probarlo
 
 Hay un ejemplo de cómo usarlo al final del archivo. Puedes modificarlo para probar diferentes cosas.
 
-## Cosas a tener en cuenta
 
-* Es un proyecto básico para aprender a usar clases en Python.
-* Faltan muchas cosas para que sea una tienda real (guardar los datos, manejar clientes, etc.), pero se pueden añadir después.
-
-## Creador
-
-Tu Nombre
-
-## Licencia
-
-[Si quieres, pon aquí la licencia, por ejemplo, MIT]
-=======
->>>>>>> 07538161c879a8824a6b31d21a9ef009defd9d7f
