@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-Mi Tienda
-=======
-# Mi Tienda
 
->>>>>>> 07538161c879a8824a6b31d21a9ef009defd9d7f
+Mi Tienda
+
+
 # TiendaOnline - Proyecto de Gestión
 
 Este es un proyecto para manejar el inventario y las ventas de una tienda online.És bastante básico.
